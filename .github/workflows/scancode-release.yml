@@ -375,7 +375,6 @@ jobs:
       - build_scancode_for_release_win
       - build_scancode_for_release_mac
       - build_scancode_for_release_source
-      - build_scancode_for_
     runs-on: ubuntu-20.04
     defaults:
       run:
